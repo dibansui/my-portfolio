@@ -29,7 +29,7 @@ function ResumeNew() {
     emailjs
       .sendForm(
         "service_6mc153v",    // ❌ PASTE YOUR SERVICE ID HERE
-        "template_e7htofl",   // ❌ PASTE YOUR TEMPLATE ID HERE
+        "template_mmyl023",   // ❌ PASTE YOUR TEMPLATE ID HERE
         form.current,
         "rGMcA0jlRoCPwfyYj" 
       )
