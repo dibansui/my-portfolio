@@ -29,9 +29,9 @@ function ResumeNew() {
     emailjs
       .sendForm(
         "service_6mc153v",    // ❌ PASTE YOUR SERVICE ID HERE
-        "template_pyv73oj",   // ❌ PASTE YOUR TEMPLATE ID HERE
+        "template_e7htofl",   // ❌ PASTE YOUR TEMPLATE ID HERE
         form.current,
-        "rGMcA0jlRoCPwfyYj"     // ❌ PASTE YOUR PUBLIC KEY HERE
+        "rGMcA0jlRoCPwfyYj" 
       )
       .then(
         (result) => {
