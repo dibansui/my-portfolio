@@ -1,8 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCards from "./ProjectCards";
-import pdfImg from "../../Assets/Projects/pdf.png"; 
-import snakeImg from "../../Assets/Projects/snake.png";
 
 function Projects() {
   return (

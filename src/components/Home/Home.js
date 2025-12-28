@@ -2,11 +2,8 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import homeLogo from "../../Assets/home-main.svg";
 import Type from "./Type";
-import { ImPointRight } from "react-icons/im";
 import { FaLaptopCode, FaBrain, FaSearch, FaRobot, FaDatabase } from "react-icons/fa";
 import { FaCertificate, FaGraduationCap, FaBriefcase } from "react-icons/fa";
-import { AiFillGithub, AiFillInstagram } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
 
 function Home() {
   return (
